@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there 👋, I'm Gastón Puyares!
 
-<!--
-**GastonPuyares/GastonPuyares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me  
+I'm a university student passionate about **web & mobile development, game development, and technology**. I enjoy working on creative projects and expanding my skills in programming.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on  
+- Learning **HTML, CSS, JavaScript, and Java** to improve my web development skills.  
+- A **supermarket website project** (currently paused).  
+- Exploring **game development** as a future interest.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning  
+- **CSS & HTML** for better UI/UX design.  
+- **JavaScript & React** for frontend development.  
+- **Java** for backend and object-oriented programming.  
+
+👯 I’m looking to collaborate on  
+- **Web and mobile development projects.**  
+- **Game development opportunities.**  
+
+💬 Ask me about  
+- **React and frontend development.**  
+- **Web design and structuring with HTML & CSS.**  
+
+📫 How to reach me  
+- **LinkedIn:** [linkedin.com/in/yourprofile]  
+
+⚡ Fun fact  
+I love **football and playing pádel in my free time!** ⚽🎾  
+
