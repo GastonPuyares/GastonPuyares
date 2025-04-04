@@ -22,7 +22,7 @@ I'm a university student passionate about **web & mobile development, game devel
 - **Web design and structuring with HTML & CSS.**  
 
 📫 How to reach me  
-- **LinkedIn:** [linkedin.com/in/yourprofile]  
+- **LinkedIn:** (https://www.linkedin.com/in/gaston-puyares-2aaa32270/)  
 
 ⚡ Fun fact  
 I love **football and playing pádel in my free time!** ⚽🎾  
