@@ -1,29 +1,10 @@
-Hi there 👋, I'm Gastón Puyares!
+# Hi, I'm Gastón Puyares 
 
-🚀 About Me  
-I'm a university student passionate about **web & mobile development, game development, and technology**. I enjoy working on creative projects and expanding my skills in programming.
+University student transitioning into professional frontend development.
+My current focus is **React** — from fundamentals to scalable UI patterns — with a growing interest in full-stack development.
 
-🔭 I’m currently working on  
-- Learning **HTML, CSS, JavaScript, and Java** to improve my web development skills.  
-- A **supermarket website project** (currently paused).  
-- Exploring **game development** as a future interest.  
+- Currently building projects to solidify my React and JavaScript skills  
+- Open to learning backend technologies in the near future  
 
-🌱 I’m currently learning  
-- **CSS & HTML** for better UI/UX design.  
-- **JavaScript & React** for frontend development.  
-- **Java** for backend and object-oriented programming.  
-
-👯 I’m looking to collaborate on  
-- **Web and mobile development projects.**  
-- **Game development opportunities.**  
-
-💬 Ask me about  
-- **React and frontend development.**  
-- **Web design and structuring with HTML & CSS.**  
-
-📫 How to reach me  
-- **LinkedIn:** (https://www.linkedin.com/in/gaston-puyares-2aaa32270/)  
-
-⚡ Fun fact  
-I love **football and playing pádel in my free time!** ⚽🎾  
-
+**Stack:** HTML · CSS · JavaScript · React  
+ [LinkedIn](https://www.linkedin.com/in/gaston-puyares-2aaa32270/)
